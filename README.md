@@ -1,8 +1,8 @@
 <h3 align="center">Hi 👋, I'm Fırat Yıldızhan</h3>
 
-- 🔭 I’m currently working on )
+- 🔭 I’m currently working on 
 
-- 👨‍💻 All of my projects are available at [Github](https://firatyildizhan01)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/firatyildizhan01)
 
 - 📝 I regularly write articles on [Medium](https://firatyildizhan.medium.com/)
 
@@ -25,6 +25,7 @@
     <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />  
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
      <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 </p>
 
 <br/>
