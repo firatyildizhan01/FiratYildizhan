@@ -26,6 +26,8 @@
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
      <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
+    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
 </p>
 
 <br/>
