@@ -7,7 +7,6 @@
 - 🔭 My apps on play store
 - https://play.google.com/store/apps/details?id=cardioapp.awesome
 - https://play.google.com/store/apps/details?id=com.disease.diseasediagnosis
-- 
 
 - 📝 I regularly write articles on [Medium](https://firatyildizhan.medium.com/)
 
