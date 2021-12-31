@@ -21,13 +21,6 @@
 
 ### Languages and Tools 
 <p align="left">
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" />
-    <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />  
-    <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
      <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
     <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
