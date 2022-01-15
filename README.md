@@ -1,9 +1,5 @@
 <h3 align="center">Hi 👋, I'm Fırat Yıldızhan</h3>
 
-- 🔭 I’m currently working on 
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/firatyildizhan01)
-
 - 🔭 My apps on play store
 - https://play.google.com/store/apps/details?id=cardioapp.awesome
 - https://play.google.com/store/apps/details?id=com.disease.diseasediagnosis
